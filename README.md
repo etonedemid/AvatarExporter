@@ -5,7 +5,8 @@ from the console's own avatar system, previews it in 3D, and exports it for
 use elsewhere (Blender, mainly).
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/905e097f-f755-4b48-8273-f87f11bb5239" />
-[Screencast_20260912_174927.webm](https://github.com/user-attachments/assets/c8d8442b-a506-4353-9af1-185fc1123ed2)
+<img width="720" height="438" alt="Screencast_20260912_174927" src="https://github.com/user-attachments/assets/49311ba4-6621-4de7-949e-ac1cd7744927" />
+
 
 
 It exports:
