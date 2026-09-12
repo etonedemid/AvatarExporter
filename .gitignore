@@ -1,0 +1,16 @@
+*.xex
+*.exe
+*.pe
+*.xdb
+*.obj
+*.pyc
+__pycache__/
+build_out.txt
+build_log.txt
+probe_out.txt
+probe2_out.txt
+drivecheck_out.txt
+export/
+pulled/
+System Volume Information/
+font_data.h
