@@ -17,14 +17,6 @@ poses the avatar, live-composites facial expressions from the raw layers
 (matching the console's own shader math), and rebuilds clothing materials
 with their custom-color tint and decal layers.
 
-## Build
-
-Needs a Windows box with the Xbox 360 XDK and Xenon toolchain (cl.exe,
-link.exe, imagexex.exe). build.bat is set up for a shared-folder build - edit
-the XDK/SRC paths for your own setup - and produces default.xex.
-
-font_seg.h (a glyph atlas baked from segoeui.ttf) and bg_bliss.h (a background
-image) are included as-is from the original build.
 
 ## Run
 
